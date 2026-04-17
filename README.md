@@ -1,4 +1,4 @@
-# Jiunsong/supergemma4-26b-abliterated-multimodal-mlx-4bit " Private, Uncensored AI for Real Creators & Devs
+# Jiunsong/supergemma4-26b-abliterated-multimodal-mlx-4bit  - Private, Uncensored AI for Real Creators & Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?  
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
